@@ -9,8 +9,8 @@
 		+ Facebook: https://facebook.com/hoangphuchotboy
 		+ Twitter : @phuchptty
 		+ GitHub  : phuchptty
-	* Share free at GitHub, Source Forge and J2Team Community
-	* DO NOT EDIT UNLESS YOU KNOW ABOUT CODING. JUST WAIT FOR A NEW UPDATE
+	* Share free at GitHub, Source Forge
+	* DO NOT EDIT UNLESS YOU KNOW ABOUT CODING. JUST LEAVE A NOTE IN ISSUES AND WAIT FOR A NEW UPDATE
 
 This is END */
 
@@ -773,7 +773,7 @@ class NCT {
 		return $a;
 	}
 	public function getUSUKVideoChart(){
-		$date = date('2018-03-07');
+		$date = date('Y-m-d');
 		$data = $this -> sp -> getUSUKVideoChartPlaylistKey($date);
 		$a = $this -> getPlaylistDetail($data);
 		return $a;
