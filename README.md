@@ -14,7 +14,7 @@ To do list:
 
 <h3>Ủng hộ tại đây
 
- 1. [Paypal](paypal.me/phuchptty)
+ 1. [Paypal](https://paypal.me/phuchptty)
  2. Bảo Kim hoặc Ngân Lượng email: phuc.px.371@gmail.com
 
 <h2> Bộ SDK Được Phát Hành Dưới Giấy Phép MIT. Bạn có quyền edit và phát hành lại nhưng cần xin phép mình. Và nghiêm cấm bán dưới mọi hình thức. Xin cảm ơn
