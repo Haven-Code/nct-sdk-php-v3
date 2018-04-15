@@ -1,7 +1,7 @@
 {
     "name": "phuchptty/nct-sdk-php-v3",
     "description": "SDK PHP các API của Nhaccuatui",
-    "keywords": ["log","logging"],
+    "keywords": ["nct","sdk","php","v3","api"],
     "homepage": "https://github.com/phuchptty/nct-sdk-php-v3",
     "license": "MIT",
     "authors": [
