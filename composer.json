@@ -1,6 +1,17 @@
 {
     "name": "phuchptty/nct-sdk-php-v3",
     "description": "SDK PHP các API của Nhaccuatui",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/phuchptty/nct-sdk-php-v3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dang Hoang Phuc",
+            "email": "phuc.px.371@gmail.com",
+            "homepage": "http://dhphuc.info",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^5.6"
     }
