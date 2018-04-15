@@ -2,6 +2,6 @@
     "name": "phuchptty/nct-sdk-php-v3",
     "description": "SDK PHP các API của Nhaccuatui",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.6"
     }
 }
