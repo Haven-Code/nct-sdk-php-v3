@@ -1,4 +1,4 @@
-# OUTDATE (KHÔNG SỬ DỤNG ĐƯỢC 1 VÀI FUNCTION)
+# OUTDATE (KHÔNG SỬ DỤNG ĐƯỢC TẤT CẢ FUNCTION)
 
 ## Lưu ý: Bộ SDK đang trong giai đoạn hoàn thiện và có 1 số lỗi phát sinh. Và sẽ có thêm nhiều bản cập nhật sắp tới.
 To do list:
